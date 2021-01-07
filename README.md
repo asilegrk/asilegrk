@@ -6,11 +6,11 @@
 
 
 
-## 🌱 I’m currently learning OpenCV, Computer Vision and Robotics.
+ 🌱 I’m currently learning OpenCV, Computer Vision and Robotics.
 
 
 
-## 🔭 I’m currently working on my Graduation Thesis and the thesis project is about that Self-Driving Cars. 
+ 🔭 I’m currently working on my Graduation Thesis and the thesis project is about that Self-Driving Cars. 
 
 
 <!--
