@@ -9,7 +9,7 @@
 
 
 ### 🔭 I’m currently working on my Graduation Thesis and the thesis project is about that Self-Driving Cars. 
-  ######The reporsitories is [RaspberryPi_Autonomous_Car] (https://github.com/agrk/RaspberryPi_Autonomous_Car)
+  * The reporsitories is [RaspberryPi_Autonomous_Car] (https://github.com/agrk/RaspberryPi_Autonomous_Car)
 
 
 <!--
