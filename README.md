@@ -1,13 +1,13 @@
 
-## Hi there I am Asile 👋
+## ***Hi there I am Asile*** 👋
 
 
 ## I am a senior Computer Engineering student at Cukurova University and I always like to research and improve myself. 
 
-## >🌱 I’m currently learning OpenCV, Computer Vision and Robotics.
+## 🌱 I’m currently learning OpenCV, Computer Vision and Robotics.
 
 
-## >🔭 I’m currently working on my Graduation Thesis and the thesis project is about that Self-Driving Cars. 
+## 🔭 I’m currently working on my Graduation Thesis and the thesis project is about that Self-Driving Cars. 
 
 
 <!--
