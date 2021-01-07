@@ -1,5 +1,5 @@
 
-## ***Hi there I am Asile*** 👋
+## **Hi there I am Asile** 👋
 
 
 ## I am a senior Computer Engineering student at Cukurova University and I always like to research and improve myself. 
