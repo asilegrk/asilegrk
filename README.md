@@ -5,7 +5,7 @@
 ### I am a senior Computer Engineering student at Cukurova University and I always like to research and improve myself.  
 
 
-#### 🌱 I’m currently learning OpenCV, Computer Vision and Robotics.
+#### 🌱 I’m currently learning OpenCV, Computer Vision, Robotics and Data Science.
 
 
 #### 🔭 I’m currently working on my Graduation Thesis and the thesis project is about that Self-Driving Cars. 
