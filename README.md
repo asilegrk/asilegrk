@@ -8,9 +8,6 @@
 #### 🌱 I’m currently learning OpenCV, Computer Vision, Robotics and Data Science.
 
 
-#### 🔭 I’m currently working on my Graduation Thesis and the thesis project is about that Self-Driving Cars. 
-  ###### The reporsitories is [RaspberryPi_Autonomous_Car](https://github.com/agrk/RaspberryPi_Autonomous_Car)
-
 
 <!--
 Here are some ideas to get you started:
