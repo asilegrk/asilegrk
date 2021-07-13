@@ -5,7 +5,7 @@
 ### I am a senior Computer Engineering student at Cukurova University and I always like to research and improve myself.  
 
 
-#### 🌱 I’m currently learning Machine Learning, Deep Learning, Data Science and Computer Vision
+#### 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Computer Vision
 
 
 
