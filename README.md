@@ -2,7 +2,7 @@
 # Hi there I am Asile 👋
 
 
-### I am a senior Computer Engineering student at Cukurova University and I always like to research and improve myself.  
+### I am a Data Scientist and I always like to research and improve myself.  
 
 
 #### 🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Computer Vision
